@@ -1,0 +1,6 @@
+name: "model"
+tags: "render_quad"
+vertex_program: "/render/render_quad.vp"
+fragment_program: "/render/render_quad.fp"
+vertex_space: VERTEX_SPACE_LOCAL
+max_page_count: 0
